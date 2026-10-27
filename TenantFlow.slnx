@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TenantFlow.Core/TenantFlow.Core.csproj" />
+    <Project Path="src/TenantFlow.Api/TenantFlow.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TenantFlow.Tests/TenantFlow.Tests.csproj" />
+  </Folder>
+</Solution>
